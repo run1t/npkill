@@ -1,6 +1,6 @@
-name: Node CI
+name: Release
 
-on: [tags]
+on: release
 
 jobs:
   build:
